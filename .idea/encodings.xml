@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eventer/Adapters/ContactListAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eventer/AsyncTasks/GetTokenTask.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eventer/Objects/Person.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/close.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/close_small.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/left_nav.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/right_nav.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/adapter_contact_list.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
